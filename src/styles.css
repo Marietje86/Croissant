@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+}
+
+.contact-link {
+    color: white;
+  }
+  
+  .croissant-link {
+    color: grey;
+  }
+
+  .contact {
+      color:rgb(9, 9, 75);
+  }
+
+  .img-croissant {
+      display: block;
+      margin: 0 auto;
+      max-width: 600px;
+  }
